@@ -1,4 +1,4 @@
-# QRT (2020)
+# QRT (2021)
 
 This project is part of École Centrale de Lyon Machine Learning course shared with École Normale Supérieure de Lyon, and was done using Qube Research and Technologies (QRT) data within the ChallengeData national ML competition (<a href="https://challengedata.ens.fr/">see here</a>). 
 
